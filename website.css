@@ -1,9 +1,9 @@
 .name {
-	text-align: center
+  text-align: center
 }
 
 .description {
-	text-align: center
+  text-align: center
 }
 
 
@@ -24,38 +24,38 @@
 
 
 .nav a:hover {
-  background-color: blue;
+   background-color: blue;
 }
 
 
 .abody, Tbody, Ebody, body, Abody, Wbody, ACbody{
-	background-image: url("1.jpeg");
-	background-repeat: no-repeat;
-	background-size: cover;
+   background-image: url("1.jpeg");
+   background-repeat: no-repeat;
+   background-size: cover;
 
 }
 
 .Tech, .Tech1, .Tech2, .Tech3, .Edu, .Edu1, .Des, .award, .Work, .Work1, .Pro, .Pro1, .Act, .Act1, .Act2, .Act3  {
-	text-align: center;
-	border-style: solid;
-	padding: 30px;
-	margin: 100px;
-	font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
-	font-size: 20px;
+    text-align: center;
+    border-style: solid;
+    padding: 30px; 
+    margin: 100px;
+    font-family: Candara,Calibri,Segoe,Segoe UI,Optima,Arial,sans-serif; 
+    font-size: 20px;
 }
 
 a {
-  text-decoration: none;
+    text-decoration: none;
 }
 
 a:hover {
-  background-color: blue;
+    background-color: blue;
 }
 
 .Img {
-	width: 200px;
-  height: 210px;
-  padding: 0px;
-  margin: 100px;
-  float: left;
+    width: 200px;
+    height: 210px;
+    padding: 0px;
+    margin: 100px;
+    float: left;
 }
